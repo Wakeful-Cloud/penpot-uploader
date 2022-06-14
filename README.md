@@ -1,7 +1,7 @@
 # Penpot Uploader
 
-![GitHub Continuous Deployment Status](https://img.shields.io/github/workflow/status/Wakeful-Cloud/penpot-uploader/Continuous%20deployment?label=Deployment&style=for-the-badge)
-![NPM Status](https://img.shields.io/npm/v/@wakeful-cloud/penpot-uploader?style=for-the-badge)
+[![GitHub Continuous Deployment Status](https://img.shields.io/github/workflow/status/Wakeful-Cloud/penpot-uploader/Continuous%20deployment?label=Deployment&style=for-the-badge)](https://github.com/Wakeful-Cloud/penpot-uploader/actions/workflows/cd.yml)
+[![NPM Status](https://img.shields.io/npm/v/@wakeful-cloud/penpot-uploader?style=for-the-badge)](https://npmjs.com/package/@wakeful-cloud/penpot-uploader)
 
 A utility to help bulk-upload SVG files to [Penpot](https://penpot.app) as components. Designed
 primarily for importing entire icon libraries, though it may work for other use-cases.
